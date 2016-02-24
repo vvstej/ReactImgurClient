@@ -1,3 +1,9 @@
+Few ways to expand whats built
+1) Fetch data once and each tab click should use that data
+2) Display comments as a tree structure
+3) Try to come up with paginated approach for images and topics
+4) Provide a facility to post data to imgur
+
 ReactStarter
 ====
 
